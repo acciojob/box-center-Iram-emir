@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-* body {
+* body{
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,18 +10,19 @@
 	
   }
 
-  .box {
+  box{
     width: 200px; 
-    height: 200px; 
+    height: 72px; 
     background-color: lightblue; 
-    border: 20px solid black; 
+    border: 2px solid black; 
     display: flex;
     justify-content: center;
     align-items: center;
   }
- .box h1 {
-    color: purple; /* Set text color */
-    margin: 0; /* Remove default margin */
+
+ h1{
+    color: purple; 
+    margin: 0; 
 
  }
 
