@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+* body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: lightblue; 
+	
+  }
+
+  .box {
+    width: 200px; 
+    height: 200px; 
+    background-color: lightblue; 
+    border: 20px solid black; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+ .box h1 {
+    color: purple; /* Set text color */
+    margin: 0; /* Remove default margin */
+
+ }
+
+
+
+
+
+
