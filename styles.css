@@ -12,12 +12,11 @@
 
   box{
     width: 200px; 
-    height: 72px; 
+    height: 200px; 
     background-color: lightblue; 
-    border: 2px solid black; 
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    border: 2px ;
+	 border: solid black; 
+     align-items: center;
   }
 
  h1{
